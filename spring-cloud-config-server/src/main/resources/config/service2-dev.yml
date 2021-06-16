@@ -1,0 +1,8 @@
+eureka:
+ client:
+  serviceUrl:
+   defaultZone: http://localhost:8761/eureka/
+   
+service2:
+ prop1: test
+ prop2: test2

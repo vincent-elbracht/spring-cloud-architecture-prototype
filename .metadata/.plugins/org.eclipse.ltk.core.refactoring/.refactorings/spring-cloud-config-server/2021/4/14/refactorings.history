@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-cloud-config-server/src/main/resources/config/gateway-service-dev.yml&apos; to &apos;gateway-server-dev.yml&apos;" description="Rename resource &apos;gateway-service-dev.yml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/config/gateway-service-dev.yml" name="gateway-server-dev.yml" stamp="1617791794464" updateReferences="true"/>
+</session>
